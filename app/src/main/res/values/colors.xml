@@ -9,4 +9,36 @@
     <color name="text_primary">#FF000000</color>
     <color name="text_secondary">#FF828282</color>
     <color name="border">#FFE6E6E6</color>
+
+    <!-- Material Design 3 color mappings -->
+    <color name="primary">#FF000000</color>
+    <color name="onPrimary">#FFFFFFFF</color>
+    <color name="primaryContainer">#FF000000</color>
+    <color name="onPrimaryContainer">#FFFFFFFF</color>
+    <color name="secondary">#FF828282</color>
+    <color name="onSecondary">#FF000000</color>
+    <color name="secondaryContainer">#FFF7F7F7</color>
+    <color name="onSecondaryContainer">#FF000000</color>
+    <color name="tertiary">#FFFE2C55</color>
+    <color name="onTertiary">#FFFFFFFF</color>
+    <color name="tertiaryContainer">#FFFE2C55</color>
+    <color name="onTertiaryContainer">#FFFFFFFF</color>
+    <color name="error">#FFB3261E</color>
+    <color name="onError">#FFFFFFFF</color>
+    <color name="errorContainer">#FFF9DEDC</color>
+    <color name="onErrorContainer">#FF410E0B</color>
+    <color name="background">#FFFFFFFF</color>
+    <color name="onBackground">#FF1C1B1F</color>
+    <color name="surface">#FFFFFFFF</color>
+    <color name="onSurface">#FF1C1B1F</color>
+    <color name="surfaceVariant">#FFE7E0EC</color>
+    <color name="onSurfaceVariant">#FF49454F</color>
+    <color name="outline">#FF79747E</color>
+    <color name="inverseOnSurface">#FFF4EFF4</color>
+    <color name="inverseSurface">#FF313033</color>
+    <color name="inversePrimary">#FF6750A4</color>
+    <color name="shadow">#FF000000</color>
+    <color name="surfaceTint">#FF6750A4</color>
+    <color name="outlineVariant">#FFCAC4D0</color>
+    <color name="scrim">#FF000000</color>
 </resources>
