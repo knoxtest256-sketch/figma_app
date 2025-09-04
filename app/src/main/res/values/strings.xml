@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Figma Demo App</string>
+    <string name="social_feed">Social Feed</string>
+    <string name="ecommerce">E-commerce</string>
+    <string name="booking">Booking</string>
+    <string name="checkout">Checkout</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="chat">Chat</string>
+    <string name="sign_in">Sign In</string>
+    <string name="search">Search</string>
+    <string name="home">Home</string>
+    <string name="notifications">Notifications</string>
+    <string name="profile">Profile</string>
+    <string name="welcome">Welcome</string>
+    <string name="sign_in_continue">Sign in to continue</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="place_order">Place Order</string>
+    <string name="book_now">Book Now</string>
+    <string name="enter_promo_code">Enter promo code</string>
+    <string name="apply">Apply</string>
+</resources>
